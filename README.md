@@ -42,10 +42,9 @@ The dataset “Rental standards - current issues” utilize the following data a
 -	Cross-checked aggregated results against raw records to ensure consistency.
 -	Generated summary statistics to confirm successful cleaning and transformation.
 # Tools & Technologies:
--	AWS Services: S3 (storage), Glue (ETL processing), Athena (querying), Glue Data Catalog (metadata management).
--	Python (Pandas & NumPy): Data cleaning, transformation, and validation.
--	SQL: Aggregation and querying of structured data.
--	Visualization Tools: Matplotlib & Seaborn for quality checks and data exploration.
+- AWS Services: S3 (storage), Glue (ETL processing), Athena (querying), Glue Data Catalog (metadata management), AWS EC2 (virtual computing), AWS Beanstalk (app deployment).
+- Tableau: Data visualization and dashboard creation for rental compliance insights.
+- SQL: Aggregation and querying of structured data.
 # Deliverables:
 -	A cleaned and structured dataset with improved consistency and accuracy.
 -	A data wrangling report documenting processing steps, challenges, and transformations applied.
