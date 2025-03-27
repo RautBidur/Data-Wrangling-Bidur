@@ -30,7 +30,7 @@ The dataset “Rental standards - current issues” utilize the following data a
 -	Replaced missing values in geographical columns (Geom, Local Area, Geo-point-2d) with null values.
 -	Standardized column naming conventions to camel case for consistency.
 ## 4.	Data Transformation:
--	Converted relevant columns to appropriate data types (e.g., converting date fields and numerical attributes for analysis).
+-	Converted relevant columns to appropriate data types.
 -	Derived new attributes, such as total outstanding issues per property and categorized property types for segmentation.
 -	Filtered records to retain only properties located in Downtown Vancouver.
 ## 5.	Data Integration & Storage:
